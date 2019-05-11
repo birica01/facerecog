@@ -4,6 +4,6 @@ gunicorn==19.9.0
 numpy==1.16.3
 Pillow==6.0.0
 Waitress
-#tensorflow
+tensorflow
 keras
 opencv_contrib_python
